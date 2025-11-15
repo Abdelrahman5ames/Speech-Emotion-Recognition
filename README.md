@@ -104,7 +104,7 @@ Contributions are welcome! Feel free to fork, open issues, or submit pull reques
 
 ## 📧 Contact
 
-**Abdelrahman Abozarifa**
+**Abdelrahman Ahmed Khamis**
 
 * GitHub: https://github.com/Abdelrahman5ames
 * Email: abdelrahmanahmedkhamiss@gmail.com
